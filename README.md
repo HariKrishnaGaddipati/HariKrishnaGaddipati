@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HariKrishnaGaddipati
 - 👀 I’m interested in Electronics, Software, Riding Motorcycles, Cars, Planes.
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Automobile CAN protocols and Machine le
+- 💞️ I’m looking to collaborate on Automobile CAN protocols and Machine learning
 - 📫 How to reach me hari@ghkonline.info
 
 <!---
